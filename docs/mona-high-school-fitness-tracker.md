@@ -3,7 +3,7 @@
 ## Explain to GitHub Copilot the goals and steps
 
 ```text
-I want to build an monafit Tracker app that will include the following:
+I want to build an monafit Tracker apap that will include the following:
 
 * User authentication and profiles
 * Activity logging and tracking
