@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-oh1lxplb1samxfdxm@+dg@oa(ny(c_l=$0rh156gse6p4knl%&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['fluffy-lamp-vqjjpwv4prjcwrr6-8000.app.github.dev', 'localhost', '127.0.0.1']
 
 
 # Application definition
